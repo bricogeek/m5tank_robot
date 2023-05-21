@@ -33,6 +33,6 @@ Contenido del repositorio
 
 
 Licencias
--------------------
+------------------- 
 
 M5Tank es _**open source**_ y está basado en el trabajo original de [Paco Carabaza](https://www.thingiverse.com/thing:5961772)

@@ -3,8 +3,6 @@ M5Tank
 
 [![M5Tank](/img/m5tank.jpg)](/img/m5tank.jpg)
 
-[*BricoLemon (PRO-0280)*](https://tienda.bricogeek.com/impresion-3d-electronica/1476-bricolemon.html)
-
 Mini Tanque robot basado en el ATOM S3 de M5Stack y controlado remotamente por ESP-NOW
 
 Documentación
